@@ -1,0 +1,10 @@
+kevinBell
+100.0
+georgeRay
+75.0
+brentGuymon
+74.0
+juanPablo
+90.0
+santaClaus
+95.0
